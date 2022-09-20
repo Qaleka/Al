@@ -3,17 +3,15 @@ import math
 
 
 def get_coef(index, prompt):
-
     try:
         coef_str = sys.argv[index]
-        n = int(coef_str)
+        n = float(coef_str)
     except:
-        print("Неправильный ввод параметров, либо их отсутствие.")
         while True:
             print(prompt)
             coef_str = input()
             try:
-                n=int(coef_str)
+                n=float(coef_str)
                 break
             except:
                 print("Неправильный ввод данных")
