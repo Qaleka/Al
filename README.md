@@ -1,7 +1,7 @@
 # BKIT_2022
 ## Лабораторная работа №1
 ## Титульный лист
-![image](https://user-images.githubusercontent.com/91965947/191316217-5a632f9f-b152-40bf-b57a-51d0b8dc68e8.png)
+![image](https://user-images.githubusercontent.com/91965947/191763156-8d7be5cc-ab33-406f-ae26-fd8adaa6f671.png)
 ### Задание
 Разработать программу для решения биквадратного уравнения.
 
