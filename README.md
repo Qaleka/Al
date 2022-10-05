@@ -30,5 +30,6 @@
     - Также вызовите один из методов внешнего пакета, установленного с использованием pip.
 11. Дополнительное задание. Протестируйте корректность работы Вашей программы с помощью модульного теста.
 ### Листинг
-Код можно увидеть [тут](https://github.com/Qaleka/Al/blob/lab1/lab1.py)
+Код можно увидеть [тут](https://github.com/Qaleka/Al/blob/lab2/lab2.py) и [тут](https://github.com/Qaleka/Al/tree/lab2/lab_python_oop)
 ### Тестирование
+![image](https://user-images.githubusercontent.com/91965947/194167787-8c029d7e-d6cc-497b-b5eb-21591805a77a.png)
