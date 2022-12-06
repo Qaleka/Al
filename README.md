@@ -9,3 +9,4 @@
 | Работа | Название |
 |----------------|:---------:|
 | [rk1](https://github.com/Qaleka/Al/tree/rk1) | Рубежный конроль №1 |
+| [rk2](https://github.com/Qaleka/Al/tree/rk2) | Рубежный конроль №2 |
